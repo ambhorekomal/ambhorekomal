@@ -2,9 +2,11 @@
 
 🎓 Final Year B.E. Computer Engineering | Modern College of Engineering, Pune  
 💻 Web Developer | 🤖 AI/ML Enthusiast | ☁️ Cloud Explorer  
-📚 Preparing for GRE, CAT & MS Abroad (USA 🇺🇸 | Singapore 🇸🇬 | Europe 🇪🇺)
 
-<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+<p align="center">
+  <img align="center" height="160" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+</p>
+
 ## <u>🛠️ Tech Stack</u>
 
 <div align="left">
