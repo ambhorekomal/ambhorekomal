@@ -2,35 +2,31 @@
 
 🎓 Final Year B.E. Computer Engineering | Modern College of Engineering, Pune  
 💻 Web Developer | 🤖 AI/ML Enthusiast | ☁️ Cloud Explorer  
-📚 Preparing for GRE, CAT & MS Abroad (USA 🇺🇸 | Singapore 🇸🇬 | Europe 🇪🇺)
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
 
----
+<img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
-## 💼 Projects
+## <u>💼 Projects</u>
 
 - **TPO & Student Placement Portal**  
-  Full-stack portal using **PHP, MySQL, HTML/CSS, JS** for TPOs and students to manage campus placements.
+  Web app using **PHP, MySQL, HTML/CSS, JS** for managing campus placements.
 
 - **Bus Ticket Booking System**  
-  Built with **Angular + Supabase + GCP** — real-time seat availability, booking history, user authentication.
+  Built with **Angular + Supabase + GCP** — real-time seat availability, booking history, and user authentication.
 
 - **Resume Parser (AI/NLP)**  
-  Python + Regex + Pandas tool to extract structured info from resumes for HR automation.
+  Python tool using Regex and Pandas to extract structured data from resumes.
 
-- **EndoCare (Healthcare AI)**  
+- **EndoCare (Healthcare AI App)**  
   AI/ML-based web app for early detection and symptom tracking of Endometriosis.
 
 - **YouTube Voice Assistant (Marathi)**  
-  Controlled via **spacebar + voice** in Marathi using Python, Selenium, SpeechRecognition & Brave browser.
+  Voice-controlled YouTube search and play using **Python + Selenium + Brave browser**.
 
 - **RedBus Clone**  
-  Recreated the front-end design using **HTML, CSS, JavaScript**.
+  Front-end clone of RedBus UI using **HTML, CSS, JavaScript**.
 
----
-
-## 🛠️ Tech Stack
+## <u>🛠️ Tech Stack</u>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
@@ -50,18 +46,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
 
----
+## <u>✨ Strengths & Soft Skills</u>
 
-## ✨ Strengths & Soft Skills
+🧠 Quick Learner & Creative Thinker  
+💬 Strong Communication & Public Speaking  
+🎯 Problem Solver | 🔍 Critical Thinker | 🤹 Adaptable  
+🧪 Passionate about building **cloud + AI/ML** solutions for real-world impact
 
-- 🧠 Quick Learner & Creative Thinker  
-- 💬 Strong Communicator & Public Speaker  
-- 🎯 Critical Thinker | 🤹 Adaptable | 🔧 Problem Solver  
-- 🧪 Passionate about solving real-world problems using **Cloud + AI/ML**
-
----
-
-## 📊 GitHub Stats & Analytics
+## <u>📊 GitHub Stats</u>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ambhorekomal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -72,9 +64,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambhorekomal&layout=compact&theme=radical&hide_border=false" height="150" />
 </p>
 
----
-
-## 📫 Let's Connect!
+## <u>📫 Connect With Me</u>
 
 <div align="left">
   <a href="mailto:komalambhore17@example.com">
@@ -88,8 +78,6 @@
   </a>
 </div>
 
----
+## <u>💬 Quote</u>
 
 > “I love transforming complex logic into simple, human-centered software.”
-
-
