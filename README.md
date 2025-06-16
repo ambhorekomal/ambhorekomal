@@ -1,11 +1,8 @@
-<h2 align="left">Hi 👋! I'm Komal Ambhore — a passionate Computer Engineer from Pune, India 🇮🇳</h2>
+<h2 align="left">Hi 👋! I'm Komal Ambhore — a passionate Computer Engineering Student from Pune, India</h2>
 
 🎓 Final Year B.E. Computer Engineering | Modern College of Engineering, Pune  
 💻 Web Developer | 🤖 AI/ML Enthusiast | ☁️ Cloud Explorer  
 
-<p align="center">
-  <img align="center" height="160" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
-</p>
 
 ## <u>🛠️ Tech Stack</u>
 
@@ -30,6 +27,10 @@
 
 - **TPO & Student Placement Portal**  
   Web app using **PHP, MySQL, HTML/CSS, JS** for managing campus placements.
+  
+- **MamaGen AI – Hackathon Winner 🥇**  
+  **Prod-E-G Hackathon (Nov 2024)**  
+  Developed a maternal care platform using **AI + NLP** for personalized trimester-based symptom checkers and mood tracking.
 
 - **Bus Ticket Booking System**  
   Built with **Angular + Supabase + GCP** — real-time seat availability, booking history, and user authentication.
@@ -60,7 +61,7 @@
 
 ## <u>📫 Connect With Me</u>
 
-<div align="left">
+<div align="center">
   <a href="mailto:komalambhore17@example.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
