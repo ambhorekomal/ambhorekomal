@@ -5,27 +5,6 @@
 📚 Preparing for GRE, CAT & MS Abroad (USA 🇺🇸 | Singapore 🇸🇬 | Europe 🇪🇺)
 
 <img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
-
-## <u>💼 Projects</u>
-
-- **TPO & Student Placement Portal**  
-  Web app using **PHP, MySQL, HTML/CSS, JS** for managing campus placements.
-
-- **Bus Ticket Booking System**  
-  Built with **Angular + Supabase + GCP** — real-time seat availability, booking history, and user authentication.
-
-- **Resume Parser (AI/NLP)**  
-  Python tool using Regex and Pandas to extract structured data from resumes.
-
-- **EndoCare (Healthcare AI App)**  
-  AI/ML-based web app for early detection and symptom tracking of Endometriosis.
-
-- **YouTube Voice Assistant (Marathi)**  
-  Voice-controlled YouTube search and play using **Python + Selenium + Brave browser**.
-
-- **RedBus Clone**  
-  Front-end clone of RedBus UI using **HTML, CSS, JavaScript**.
-
 ## <u>🛠️ Tech Stack</u>
 
 <div align="left">
@@ -42,9 +21,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
 </div>
+
+## <u>💼 Projects</u>
+
+- **TPO & Student Placement Portal**  
+  Web app using **PHP, MySQL, HTML/CSS, JS** for managing campus placements.
+
+- **Bus Ticket Booking System**  
+  Built with **Angular + Supabase + GCP** — real-time seat availability, booking history, and user authentication.
+
+- **Resume Parser (AI/NLP)**  
+  Python tool using Regex and Pandas to extract structured data from resumes.
+
+- **EndoCare (Healthcare AI App)**  
+  AI/ML-based web app for early detection and symptom tracking of Endometriosis.
+
+  ## <u>📊 GitHub Stats</u>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ambhorekomal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambhorekomal&layout=compact&theme=radical&hide_border=false" height="150" />
+</p>
+
 
 ## <u>✨ Strengths & Soft Skills</u>
 
@@ -66,16 +69,6 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
-
-## <u>📊 GitHub Stats</u>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ambhorekomal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambhorekomal&layout=compact&theme=radical&hide_border=false" height="150" />
-</p>
 
 ## <u>💬 Quote</u>
 
