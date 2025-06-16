@@ -2,7 +2,7 @@
 
 🎓 Final Year B.E. Computer Engineering | Modern College of Engineering, Pune  
 💻 Web Developer | 🤖 AI/ML Enthusiast | ☁️ Cloud Explorer  
-
+📚 Preparing for GRE, CAT & MS Abroad (USA 🇺🇸 | Singapore 🇸🇬 | Europe 🇪🇺)
 
 <img align="right" height="160" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
@@ -53,17 +53,6 @@
 🎯 Problem Solver | 🔍 Critical Thinker | 🤹 Adaptable  
 🧪 Passionate about building **cloud + AI/ML** solutions for real-world impact
 
-## <u>📊 GitHub Stats</u>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ambhorekomal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ambhorekomal&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambhorekomal&layout=compact&theme=radical&hide_border=false" height="150" />
-</p>
-
 ## <u>📫 Connect With Me</u>
 
 <div align="left">
@@ -77,6 +66,16 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
 </div>
+
+## <u>📊 GitHub Stats</u>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ambhorekomal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambhorekomal&layout=compact&theme=radical&hide_border=false" height="150" />
+</p>
 
 ## <u>💬 Quote</u>
 
