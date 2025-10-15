@@ -1,7 +1,7 @@
-<h2 align="left">Hi 👋! I'm Komal Ambhore — a passionate Computer Engineering Student from Pune, India</h2>
+<h2 align="left">Hi 👋! I'm Komal Ambhore — a passionate Computer Engineering Student from Pune,currently Intern @Radar36</h2>
 
 🎓 Final Year B.E. Computer Engineering | Modern College of Engineering, Pune  
-💼 Intern at <b>Radar36</b> — Web Development & AI Projects  
+💼 Intern at <b>Radar36</b>  
 💻 Web Developer | 🤖 AI/ML Enthusiast | ☁️ Cloud Explorer  
  
 
