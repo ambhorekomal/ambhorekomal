@@ -363,12 +363,11 @@ Complete placement management portal.
 
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/39/b1/21/39b121105fcb33518f7377fe40114bdb.gif" width="320"/>
+<img src="https://i.pinimg.com/originals/39/b1/21/39b121105fcb33518f7377fe40114bdb.gif" width="600"/>
 
 ### *"Turning ideas into intelligent software."*
 
 </div>
 
----
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:E1BEE7,100:D1C4E9&height=3"/>
