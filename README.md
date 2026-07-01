@@ -88,24 +88,6 @@ Working on AI-powered enterprise applications including:
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ambhorekomal&color=ff69b4&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/ambhorekomal?style=for-the-badge&color=E879F9"/>
-
-<img src="https://img.shields.io/github/stars/ambhorekomal?style=for-the-badge&color=C084FC"/>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC7ED,50:E1BEE7,100:D1C4E9&height=3"/>
-
-</div>
-
----
-
 # 🤖 AI & Machine Learning Projects
 
 <table>
