@@ -50,8 +50,6 @@ Fun Fact:
 ### Software Engineer Intern
 ### Equations Work
 
-📅 March 2026 – Present
-
 Working on AI-powered enterprise applications including:
 
 - Developed a Voice AI Recruitment System using speech-to-text pipelines and LLMs.
@@ -64,24 +62,18 @@ Working on AI-powered enterprise applications including:
 ---
 
 ## Achievements
-
 🥇 Winner — Prod-E-G Hackathon (MamaGen AI)
-
 🏆 Finalist (Top 24/848) — SEED Global Hackathon
-
 🏅 Semi-Finalist — e-Yantra Innovation Challenge 2025
-
 🏅 District Semi-Finalist — Maharashtra State Innovation Challenge
-
 🏅 Semi-Finalist (Top 20/100) — Nariyukti Hackathon
 
 ---
 
-## 👩‍💼 Leadership
+## Leadership
 
-✨ Design Head — MARSMCOE
-
-✨ Computer Department Head — NSS PESMCOE
+Design Head — MARSMCOE
+Computer Department Head — NSS PESMCOE
 
 ---
 
