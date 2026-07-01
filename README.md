@@ -8,11 +8,24 @@
 
 # 💜 Hi, I'm Komal Ambhore 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=E879F9&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;Full+Stack+Developer;Cloud+Enthusiast;Always+Building+Cool+Things+%F0%9F%9A%80" />
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=E879F9&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;Full+Stack+Developer;Cloud+Enthusiast;Always+Building+Cool+Things+🚀"
+/>
 
-<br>
+<br><br>
 
-<img width="450" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
+<img
+src="./assets/coding-girl.gif"
+alt="Coding Girl"
+width="450"
+/>
+
+<br><br>
+
+<p>
+💻 <b>Software Engineer Intern @ Equations Work</b><br>
+🤖 AI • LLMs • Agentic AI • RAG • Full Stack Development
+</p>
 
 </div>
 
