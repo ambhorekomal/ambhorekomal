@@ -12,7 +12,7 @@
 
 <br>
 
-<img width="450" src="https://tenor.com/3Kua.gif">
+<img width="450" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 </div>
 
