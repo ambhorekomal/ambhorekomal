@@ -53,18 +53,15 @@ Interested In:
   🌐 Full Stack Development
 
 Currently Learning:
-  LangGraph
   OpenCLAW
   AI Agents
   AWS
   Advanced RAG
 ```
 
----
-
 ## 💼 Experience
 
-### 💜 Software Engineer Intern
+### Software Engineer Intern
 ### Equations Work
 
 📅 March 2026 - Present
