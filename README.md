@@ -318,50 +318,55 @@ PHP • MySQL • HTML • CSS • JavaScript
 
 <table>
 <tr>
-<td align="center">
 
-<b>Frontend</b><br>
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap" />
+<td align="center" width="33%">
 
-</td>
-
-<td align="center">
-
-<b>Backend</b><br>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,express" />
+<b>Frontend</b><br><br>
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap&theme=light&perline=5" height="38"/>
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-<b>Databases</b><br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,supabase" />
+<b>Backend</b><br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,express&theme=light&perline=4" height="38"/>
 
 </td>
+
+<td align="center" width="33%">
+
+<b>Databases</b><br><br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,supabase&theme=light&perline=5" height="38"/>
+
+</td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 
-<b>Cloud</b><br>
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" />
+<b>Cloud</b><br><br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker&theme=light&perline=4" height="38"/>
 
 </td>
 
 <td align="center">
 
-<b>AI / ML</b><br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<b>AI / ML</b><br><br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light&perline=2" height="38"/>
 
 </td>
 
 <td align="center">
 
-<b>Development Tools</b><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+<b>Development Tools</b><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=light&perline=6" height="38"/>
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
