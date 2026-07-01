@@ -19,17 +19,12 @@
 ---
 
 
-<h2 align="center">
-  <img src="https://img.shields.io/badge/About%20Me-💜-E879F9?style=for-the-badge&labelColor=F8BBD0"/>
-</h2>
 
-<div align="center">
-
-<table>
-<tr>
-<td>
+## About Me
 
 ```yaml
+Name: Komal Ambhore
+
 Location:
    Pune, Maharashtra, India 🇮🇳
 
@@ -41,7 +36,7 @@ Current Role:
   💼 Software Engineer Intern @ Equations Work
 
 Focus Areas:
-   Artificial Intelligence, Large Language Models (LLMs), Retrieval Augmented Generation (RAG)
+   Artificial Intelligence, Large Language Models (LLMs) ,Retrieval Augmented Generation (RAG)
    Agentic AI, Full Stack Development, Cloud Computing
 
 Currently Learning:
@@ -50,17 +45,6 @@ Currently Learning:
 Fun Fact:
    I love transforming complex ideas into intelligent software that people enjoy using.
 ```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC7ED,50:E1BEE7,100:D1C4E9&height=3"/>
-
 ## 💼 Experience
 
 ### Software Engineer Intern
