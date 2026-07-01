@@ -58,12 +58,14 @@ Working on AI-powered enterprise applications including:
 - Created AI-powered email drafting workflows.
 - Built media sentiment analysis and competitor article tracking solutions.
 - Worked across Python, FastAPI, React, REST APIs, and LLM integrations.
+  
 ---
 <div align="center">
 
 <img src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif" width="600" alt="Coding GIF"/>
 
 </div>
+
 ---
 
 ## Achievements
