@@ -63,9 +63,13 @@ Working on AI-powered enterprise applications including:
 
 ## Achievements
 🥇 Winner — Prod-E-G Hackathon (MamaGen AI)
+
 🏆 Finalist (Top 24/848) — SEED Global Hackathon
+
 🏅 Semi-Finalist — e-Yantra Innovation Challenge 2025
+
 🏅 District Semi-Finalist — Maharashtra State Innovation Challenge
+
 🏅 Semi-Finalist (Top 20/100) — Nariyukti Hackathon
 
 ---
@@ -73,6 +77,7 @@ Working on AI-powered enterprise applications including:
 ## Leadership
 
 Design Head — MARSMCOE
+
 Computer Department Head — NSS PESMCOE
 
 ---
