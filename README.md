@@ -14,18 +14,8 @@ src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pau
 
 <br><br>
 
-<img
-src="./assets/coding-girl.gif"
-alt="Coding Girl"
-width="450"
-/>
-
+<img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 <br><br>
-
-<p>
-💻 <b>Software Engineer Intern @ Equations Work</b><br>
-🤖 AI • LLMs • Agentic AI • RAG • Full Stack Development
-</p>
 
 </div>
 
