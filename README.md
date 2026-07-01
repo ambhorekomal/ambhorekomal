@@ -9,12 +9,10 @@
 # 💜 Hi, I'm Komal Ambhore 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=E879F9&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;Full+Stack+Developer;Cloud+Enthusiast;Always+Building+Cool+Things+🚀"/>
-
-<br><br>
-
+<br>
 <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="420" alt="Coding Girl"/>
 
-<br><br>
+<br>
 
 ### 🌸 Building intelligent systems that solve real-world problems using AI, Cloud & Full Stack Engineering.
 
