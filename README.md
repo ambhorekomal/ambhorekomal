@@ -8,7 +8,7 @@
 
 # 💜 Hi, I'm Komal Ambhore 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=E879F9&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;Full+Stack+Developer;Cloud+Enthusiast;Always+Building+Cool+Things+%F0%9F%9A%80" />
+<img src="https://tenor.com/view/coding-girl-gif-2332171326726785246" />
 
 <br>
 
