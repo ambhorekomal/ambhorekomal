@@ -363,7 +363,7 @@ Complete placement management portal.
 
 <div align="center">
 
-<img src="https://pin.it/1dVJZAJvQ" width="320"/>
+<img src="https://i.pinimg.com/originals/39/b1/21/39b121105fcb33518f7377fe40114bdb.gif" width="320"/>
 
 ### *"Turning ideas into intelligent software."*
 
