@@ -120,7 +120,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420"/>
+<img src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif" width="420"/>
 
 ### ✨ Building AI products that create real-world impact ✨
 
