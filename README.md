@@ -88,16 +88,15 @@ Working on AI-powered enterprise applications including:
 # 🤖 AI & Machine Learning Projects
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 EndoCare
+<h3>EndoCare</h3>
 
-> AI-powered healthcare platform for Endometriosis detection and symptom tracking.
+AI-powered healthcare platform for Endometriosis detection and symptom tracking.
 
-✨ Features
+<b>Features</b>
 
 - Symptom Prediction
 - Risk Assessment
@@ -106,21 +105,21 @@ Working on AI-powered enterprise applications including:
 - Dashboard
 - ML Prediction
 
-**Tech Stack**
+<b>Tech Stack</b>
 
 Python • Flask • React • MySQL • Deep Learning
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤱 MamaGen AI 🥇
+<h3>MamaGen AI</h3>
 
 Winner — Prod-E-G Hackathon
 
 AI-powered maternal wellness platform.
 
-✨ Features
+<b>Features</b>
 
 - Trimester Guidance
 - Mood Analysis
@@ -128,7 +127,7 @@ AI-powered maternal wellness platform.
 - Symptom Checker
 - Personalized Recommendations
 
-**Tech Stack**
+<b>Tech Stack</b>
 
 Python • NLP • React • AI
 
@@ -138,59 +137,43 @@ Python • NLP • React • AI
 
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
-### 💹 Text-to-SQL for Financial Data
+<h3>Text-to-SQL for Financial Data</h3>
 
-An enterprise-grade AI platform that converts natural language into SQL queries.
+Enterprise AI platform that converts natural language into SQL queries.
 
-✨ Features
+<b>Features</b>
 
 - LLM Powered
 - SQL Generation
 - Multi-Agent Architecture
 - Financial Analytics
-- Automatic Insights
+- Automated Insights
 
-**Tech Stack**
+<b>Tech Stack</b>
 
-LangChain
-
-OpenAI
-
-FastAPI
-
-PostgreSQL
-
-OpenCLAW
+LangChain • OpenAI • FastAPI • PostgreSQL • OpenCLAW
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 🎤 Voice AI Recruitment System
+<h3>Voice AI Recruitment System</h3>
 
-Complete voice-based hiring platform.
+End-to-end voice-driven hiring platform.
 
-✨ Features
+<b>Features</b>
 
 - Speech Recognition
 - Resume Generation
-- Voice Interview
-- AI Evaluation
+- Voice Interviews
+- AI Candidate Evaluation
 - Candidate Analysis
 
-**Tech Stack**
+<b>Tech Stack</b>
 
-Whisper
-
-Python
-
-LLMs
-
-FastAPI
-
-React
+Whisper • Python • LLMs • FastAPI • React
 
 </td>
 
@@ -198,36 +181,41 @@ React
 
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
-### 💰 Vyapar Vidya
+<h3>Vyapar Vidya</h3>
 
-Voice-first Financial Assistant.
+Voice-first AI financial assistant.
 
-✨ Features
+<b>Features</b>
 
 - Expense Tracking
 - Voice Commands
 - AI Financial Reports
 - Smart Insights
 
+<b>Tech Stack</b>
+
+Python • LLMs • FastAPI • React
+
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 📄 LinkedIn Job Summarizer
+<h3>LinkedIn Job Summarizer</h3>
 
-AI tool that summarizes job posts.
+AI application for summarizing job descriptions.
 
-Features
+<b>Features</b>
 
-✔ LLM Summaries
+- LLM Summaries
+- Skill Extraction
+- Resume Matching
+- Job Insights
 
-✔ Skill Extraction
+<b>Tech Stack</b>
 
-✔ Resume Match
-
-✔ Job Insights
+Python • LLMs • NLP
 
 </td>
 
@@ -235,32 +223,41 @@ Features
 
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
-### 📅 AI Calendar Summarizer
+<h3>AI Calendar Summarizer</h3>
 
-Transformer-powered event summarizer.
+Transformer-based meeting and event summarization system.
+
+<b>Features</b>
 
 - Event Highlights
-- Meeting Summary
+- Meeting Summaries
 - Priority Detection
 - AI Recommendations
 
+<b>Tech Stack</b>
+
+Python • Transformers • NLP
+
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 🎯 Cross Camera Player Mapping
+<h3>Cross-Camera Player Mapping</h3>
 
-YOLO-based multi-camera object tracking.
+YOLO-based multi-camera object tracking system.
 
-✔ YOLO
+<b>Features</b>
 
-✔ OpenCV
+- YOLO Detection
+- OpenCV Integration
+- Multi-Camera Tracking
+- Identity Matching
 
-✔ Multi Camera Tracking
+<b>Tech Stack</b>
 
-✔ Identity Matching
+YOLO • OpenCV • Python
 
 </td>
 
@@ -268,35 +265,42 @@ YOLO-based multi-camera object tracking.
 
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
-### 🚌 Bus Ticket Booking System
+<h3>Bus Ticket Booking System</h3>
 
-Real-time booking platform.
+Real-time online ticket booking platform.
 
-- Angular
-- Google Cloud
-- Supabase
+<b>Features</b>
+
+- Live Seat Availability
 - Authentication
-- Live Seat Tracking
+- Booking History
+- Real-Time Updates
+
+<b>Tech Stack</b>
+
+Angular • Google Cloud • Supabase
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 🎓 TPO & Placement Portal
+<h3>TPO & Student Placement Portal</h3>
 
-Complete placement management portal.
+Campus placement management system.
 
-✔ Student Portal
+<b>Features</b>
 
-✔ Admin Dashboard
+- Student Portal
+- Admin Dashboard
+- Resume Upload
+- Company Management
+- Job Listings
 
-✔ Resume Upload
+<b>Tech Stack</b>
 
-✔ Company Management
-
-✔ PHP + MySQL
+PHP • MySQL • HTML • CSS • JavaScript
 
 </td>
 
