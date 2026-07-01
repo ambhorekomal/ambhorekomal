@@ -1,80 +1,489 @@
-<h2 align="left">Hi 👋! I'm Komal Ambhore — a passionate Computer Engineering Student from Pune</h2>
+<!-- ========================================= -->
+<!--               HEADER                      -->
+<!-- ========================================= -->
 
-🎓 Final Year B.E. Computer Engineering | Modern College of Engineering, Pune  
-💼 Intern at <b>Equations Work</b>  
-💻 Web Developer | 🤖 AI/ML Enthusiast | ☁️ Cloud Explorer  
- 
-
-
-## <u>🛠️ Tech Stack</u>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="Google Cloud" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-</div>
-
-## <u>💼 Projects</u>
-
-- **TPO & Student Placement Portal**  
-  Web app using **PHP, MySQL, HTML/CSS, JS** for managing campus placements.
-  
-- **MamaGen AI – Hackathon Winner 🥇**  
-  **Prod-E-G Hackathon (Nov 2024)**  
-  Developed a maternal care platform using **AI + NLP** for personalized trimester-based symptom checkers and mood tracking.
-
-- **Bus Ticket Booking System**  
-  Built with **Angular + Supabase + GCP** — real-time seat availability, booking history, and user authentication.
-
-- **Resume Parser (AI/NLP)**  
-  Python tool using Regex and Pandas to extract structured data from resumes.
-
-- **EndoCare (Healthcare AI App)**  
-  AI/ML-based web app for early detection and symptom tracking of Endometriosis.
-
-  ## <u>📊 GitHub Stats</u>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ambhorekomal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambhorekomal&layout=compact&theme=radical&hide_border=false" height="150" />
-</p>
-
-
-## <u>✨ Strengths & Soft Skills</u>
-
-🧠 Quick Learner & Creative Thinker  
-💬 Strong Communication & Public Speaking  
-🎯 Problem Solver | 🔍 Critical Thinker | 🤹 Adaptable  
-🧪 Passionate about building **cloud + AI/ML** solutions for real-world impact
-
-## <u>📫 Connect With Me</u>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFC7ED,25:F8BBD0,50:E1BEE7,75:D1C4E9,100:C5CAE9&text=Komal%20Ambhore&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cloud%20Explorer&descAlignY=60"/>
 
 <div align="center">
-  <a href="mailto:komalambhore17@example.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.linkedin.com/in/komal-ambhore/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://github.com/ambhorekomal">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
+
+# 💜 Hi, I'm Komal Ambhore 👋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=E879F9&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;Full+Stack+Developer;Cloud+Enthusiast;Always+Building+Cool+Things+%F0%9F%9A%80" />
+
+<br>
+
+<img width="450" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 </div>
 
-## <u>💬 Quote</u>
+---
 
-> “I love transforming complex logic into simple, human-centered software.”
+<div align="center">
+
+### 🌸 Building intelligent systems that solve real-world problems using AI, Cloud & Full Stack Engineering.
+
+</div>
+
+---
+
+## 💫 About Me
+
+```yaml
+Name: Komal Ambhore
+
+Location: Pune, Maharashtra 🇮🇳
+
+Education:
+  🎓 B.E Computer Engineering
+  PES Modern College of Engineering
+  GPA : 9.14
+
+Currently:
+  💼 Software Engineer Intern @ Equations Work
+
+Interested In:
+  🤖 Artificial Intelligence
+  🧠 LLM Applications
+  🔍 Retrieval Augmented Generation
+  ⚡ Agentic AI
+  ☁ Cloud Computing
+  🌐 Full Stack Development
+
+Currently Learning:
+  LangGraph
+  OpenCLAW
+  AI Agents
+  AWS
+  Advanced RAG
+```
+
+---
+
+## 💼 Experience
+
+### 💜 Software Engineer Intern
+### Equations Work
+
+📅 March 2026 - Present
+
+✨ Worked on cutting-edge AI applications including:
+
+- 🎙 Built an end-to-end Voice AI Recruitment Platform
+- 🤖 Developed RAG Chatbots using Embeddings + Vector Databases
+- 🧠 Built Multi-Agent workflows using OpenCLAW
+- ⚡ Working on AI Copilot for developers
+- 📧 Built AI Email Drafting workflows
+- 📈 Developed Media Sentiment Analysis System
+- 📰 Competitor News Tracking Agents
+- 🔍 LLM Prompt Engineering
+- 🌐 Full Stack AI Development
+
+---
+
+### 💙 Frontend Intern
+### Radar 36
+
+📅 Sept 2025 - Nov 2025
+
+- Angular Dashboard Development
+- API Integration
+- RAG Chatbot Integration
+- Backend Testing
+- UI Development
+
+---
+
+### 💛 Web Development Intern
+### Jija Tech Solutions
+
+📅 Jan 2025 - Mar 2025
+
+Developed a complete Placement Portal including:
+
+- Student Dashboard
+- Admin Panel
+- Resume Upload
+- Company Management
+- Job Listings
+- PHP + MySQL Backend
+- REST APIs
+- Postman Testing
+
+---
+
+## 🏆 Achievements
+
+🥇 Winner — Prod-E-G Hackathon (MamaGen AI)
+
+🏆 Finalist (Top 24/848) — SEED Global Hackathon
+
+🏅 Semi Finalist — e-Yantra Innovation Challenge 2025
+
+🏅 District Semi Finalist — Maharashtra State Innovation Challenge
+
+🏅 Top 20 — Nariyukti Hackathon
+
+---
+
+## 👩‍💼 Leadership
+
+✨ Design Head — MARSMCOE
+
+✨ Computer Department Head — NSS PESMCOE
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=ambhorekomal&color=ff69b4&style=for-the-badge)
+
+![](https://img.shields.io/github/followers/ambhorekomal?style=for-the-badge&color=E879F9)
+
+![](https://img.shields.io/github/stars/ambhorekomal?style=for-the-badge&color=C084FC)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:E1BEE7,100:D1C4E9&height=3"/>
+# 🚀 Featured Projects
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="420"/>
+
+### ✨ Building AI products that create real-world impact ✨
+
+</div>
+
+---
+
+# 🤖 AI & Machine Learning Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🧠 EndoCare
+
+> AI-powered healthcare platform for Endometriosis detection and symptom tracking.
+
+✨ Features
+
+- Symptom Prediction
+- Risk Assessment
+- Cycle Tracking
+- AI Health Insights
+- Dashboard
+- ML Prediction
+
+**Tech Stack**
+
+Python • Flask • React • MySQL • Deep Learning
+
+</td>
+
+<td width="50%">
+
+### 🤱 MamaGen AI 🥇
+
+Winner — Prod-E-G Hackathon
+
+AI-powered maternal wellness platform.
+
+✨ Features
+
+- Trimester Guidance
+- Mood Analysis
+- NLP Chat
+- Symptom Checker
+- Personalized Recommendations
+
+**Tech Stack**
+
+Python • NLP • React • AI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 💹 Text-to-SQL for Financial Data
+
+An enterprise-grade AI platform that converts natural language into SQL queries.
+
+✨ Features
+
+- LLM Powered
+- SQL Generation
+- Multi-Agent Architecture
+- Financial Analytics
+- Automatic Insights
+
+**Tech Stack**
+
+LangChain
+
+OpenAI
+
+FastAPI
+
+PostgreSQL
+
+OpenCLAW
+
+</td>
+
+<td>
+
+### 🎤 Voice AI Recruitment System
+
+Complete voice-based hiring platform.
+
+✨ Features
+
+- Speech Recognition
+- Resume Generation
+- Voice Interview
+- AI Evaluation
+- Candidate Analysis
+
+**Tech Stack**
+
+Whisper
+
+Python
+
+LLMs
+
+FastAPI
+
+React
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 💰 Vyapar Vidya
+
+Voice-first Financial Assistant.
+
+✨ Features
+
+- Expense Tracking
+- Voice Commands
+- AI Financial Reports
+- Smart Insights
+
+</td>
+
+<td>
+
+### 📄 LinkedIn Job Summarizer
+
+AI tool that summarizes job posts.
+
+Features
+
+✔ LLM Summaries
+
+✔ Skill Extraction
+
+✔ Resume Match
+
+✔ Job Insights
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📅 AI Calendar Summarizer
+
+Transformer-powered event summarizer.
+
+- Event Highlights
+- Meeting Summary
+- Priority Detection
+- AI Recommendations
+
+</td>
+
+<td>
+
+### 🎯 Cross Camera Player Mapping
+
+YOLO-based multi-camera object tracking.
+
+✔ YOLO
+
+✔ OpenCV
+
+✔ Multi Camera Tracking
+
+✔ Identity Matching
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🚌 Bus Ticket Booking System
+
+Real-time booking platform.
+
+- Angular
+- Google Cloud
+- Supabase
+- Authentication
+- Live Seat Tracking
+
+</td>
+
+<td>
+
+### 🎓 TPO & Placement Portal
+
+Complete placement management portal.
+
+✔ Student Portal
+
+✔ Admin Dashboard
+
+✔ Resume Upload
+
+✔ Company Management
+
+✔ PHP + MySQL
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,c,html,css"/>
+
+<br><br>
+
+## 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap"/>
+
+<br><br>
+
+## ⚙ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,express"/>
+
+<br><br>
+
+## 🗄 Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,supabase"/>
+
+<br><br>
+
+## ☁ Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker"/>
+
+<br><br>
+
+## 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</div>
+
+---
+
+# 💜 AI Stack
+
+```text
+🧠 Large Language Models
+
+✔ OpenAI GPT
+✔ LangChain
+✔ RAG
+✔ Prompt Engineering
+✔ Agentic AI
+✔ OpenCLAW
+✔ Vector Databases
+✔ Embeddings
+✔ Whisper
+✔ HuggingFace
+✔ Transformers
+
+```
+
+---
+
+# ⚡ Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
+
+</div>
+
+---
+
+# 📚 Currently Exploring
+
+🌸 Multi-Agent AI Systems
+
+🌸 Advanced RAG
+
+🌸 MCP Servers
+
+🌸 AI Copilots
+
+🌸 LangGraph
+
+🌸 Cloud Deployment
+
+🌸 Kubernetes
+
+🌸 Docker
+
+🌸 AWS Bedrock
+
+🌸 Azure OpenAI
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="320"/>
+
+### *"Turning ideas into intelligent software."*
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:E1BEE7,100:D1C4E9&height=3"/>
