@@ -316,43 +316,57 @@ PHP • MySQL • HTML • CSS • JavaScript
 
 <div align="center">
 
-**Languages**<br>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,c,html,css" />
+<table>
+<tr>
+<td align="center">
 
-<br><br>
-
-**Frontend**<br>
+<b>Frontend</b><br>
 <img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap" />
 
-<br><br>
+</td>
 
-**Backend**<br>
+<td align="center">
+
+<b>Backend</b><br>
 <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,express" />
 
-<br><br>
+</td>
 
-**Databases**<br>
+<td align="center">
+
+<b>Databases</b><br>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,supabase" />
 
-<br><br>
+</td>
+</tr>
 
-**Cloud**<br>
+<tr>
+<td align="center">
+
+<b>Cloud</b><br>
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" />
 
-<br><br>
+</td>
 
-**AI / ML**<br>
+<td align="center">
+
+<b>AI / ML</b><br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-<br><br>
+</td>
 
-**Development Tools**<br>
+<td align="center">
+
+<b>Development Tools</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
-
 <div align="center">
 
 <img src="https://i.pinimg.com/originals/39/b1/21/39b121105fcb33518f7377fe40114bdb.gif" width="600"/>
