@@ -348,26 +348,6 @@ Complete placement management portal.
 
 </div>
 
----
-
-# 💜 AI Stack
-
-```text
-🧠 Large Language Models
-
-✔ OpenAI GPT
-✔ LangChain
-✔ RAG
-✔ Prompt Engineering
-✔ Agentic AI
-✔ OpenCLAW
-✔ Vector Databases
-✔ Embeddings
-✔ Whisper
-✔ HuggingFace
-✔ Transformers
-
-```
 
 ---
 
@@ -378,30 +358,6 @@ Complete placement management portal.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
 
 </div>
-
----
-
-# 📚 Currently Exploring
-
-🌸 Multi-Agent AI Systems
-
-🌸 Advanced RAG
-
-🌸 MCP Servers
-
-🌸 AI Copilots
-
-🌸 LangGraph
-
-🌸 Cloud Deployment
-
-🌸 Kubernetes
-
-🌸 Docker
-
-🌸 AWS Bedrock
-
-🌸 Azure OpenAI
 
 ---
 
