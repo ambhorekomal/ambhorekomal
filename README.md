@@ -5,9 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFC7ED,25:F8BBD0,50:E1BEE7,75:D1C4E9,100:C5CAE9&text=Komal%20Ambhore&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cloud%20Explorer&descAlignY=60"/>
 
 <div align="center">
-
 # 💜 Hi, I'm Komal Ambhore 👋
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=E879F9&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;Full+Stack+Developer;Cloud+Enthusiast;Always+Building+Cool+Things+🚀"/>
 <br>
 <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="420" alt="Coding Girl"/>
