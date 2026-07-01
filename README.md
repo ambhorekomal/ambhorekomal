@@ -12,22 +12,19 @@
 src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=E879F9&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;Full+Stack+Developer;Cloud+Enthusiast;Always+Building+Cool+Things+🚀"
 />
 
-<br><br>
+<br>
 
 <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
-<br><br>
+<br>
 
 </div>
-
----
 
 <div align="center">
 
-### 🌸 Building intelligent systems that solve real-world problems using AI, Cloud & Full Stack Engineering.
+###  Building intelligent systems that solve real-world problems using AI, Cloud & Full Stack Engineering.
 
 </div>
 
----
 
 ## 💫 About Me
 
@@ -37,27 +34,18 @@ Name: Komal Ambhore
 Location: Pune, Maharashtra 🇮🇳
 
 Education:
-  🎓 B.E Computer Engineering
-  PES Modern College of Engineering
+  🎓 B.E Computer Engineering - PES Modern College of Engineering
   GPA : 9.14
 
 Currently:
   💼 Software Engineer Intern @ Equations Work
 
 Interested In:
-  🤖 Artificial Intelligence
-  🧠 LLM Applications
-  🔍 Retrieval Augmented Generation
-  ⚡ Agentic AI
-  ☁ Cloud Computing
-  🌐 Full Stack Development
+   Artificial Intelligence, LLM Applications, Retrieval Augmented Generation, Agentic AI, Cloud Computing, Full Stack Development
 
 Currently Learning:
-  OpenCLAW
-  AI Agents
-  AWS
-  Advanced RAG
-```
+  OpenCLAW, AI Agents, AWS, Advanced RAG
+
 
 ## 💼 Experience
 
