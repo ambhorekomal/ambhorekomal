@@ -312,56 +312,42 @@ PHP • MySQL • HTML • CSS • JavaScript
 
 </table>
 
----
-
 # 🛠 Tech Stack
 
 <div align="center">
 
-## 👨‍💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,c,html,css"/>
-
-<br><br>
-
-## 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap"/>
+**Languages**<br>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php,c,html,css" />
 
 <br><br>
 
-## ⚙ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,express"/>
-
-<br><br>
-
-## 🗄 Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,supabase"/>
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap" />
 
 <br><br>
 
-## ☁ Cloud
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker"/>
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,express" />
 
 <br><br>
 
-## 🤖 AI / ML
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,postgres,supabase" />
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<br><br>
 
-</div>
+**Cloud**<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker" />
 
+<br><br>
 
----
+**AI / ML**<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
-# ⚡ Development Tools
+<br><br>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux"/>
+**Development Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
 
 </div>
 
