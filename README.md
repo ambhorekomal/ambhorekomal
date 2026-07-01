@@ -5,7 +5,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFC7ED,25:F8BBD0,50:E1BEE7,75:D1C4E9,100:C5CAE9&text=Komal%20Ambhore&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cloud%20Explorer&descAlignY=68"/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ambhorekomal&color=ff69b4&style=for-the-badge"/>
 
 # Hi, I'm Komal Ambhore 🦋
 
