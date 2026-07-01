@@ -12,7 +12,7 @@
 
 <br>
 
-<img width="450" src="https://tenor.com/view/coding-girl-gif-2332171326726785246">
+<img width="450" src="https://tenor.com/3Kua.gif">
 
 </div>
 
