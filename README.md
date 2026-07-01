@@ -98,20 +98,18 @@ Computer Department Head — NSS PESMCOE
 
 <h3>EndoCare</h3>
 
-AI-powered healthcare platform for Endometriosis detection and symptom tracking.
+AI-powered platform for early detection and symptom tracking of Endometriosis.
 
-<b>Features</b>
+<b>Key Features</b>
 
-- Symptom Prediction
-- Risk Assessment
-- Cycle Tracking
-- AI Health Insights
-- Dashboard
-- ML Prediction
+• Symptom Prediction<br>
+• Risk Assessment<br>
+• Cycle Tracking<br>
+• AI Health Insights
 
 <b>Tech Stack</b>
 
-Python • Flask • React • MySQL • Deep Learning
+Python • Flask • React • MySQL
 
 </td>
 
@@ -119,21 +117,20 @@ Python • Flask • React • MySQL • Deep Learning
 
 <h3>MamaGen AI</h3>
 
-Winner — Prod-E-G Hackathon
+Winner – Prod-E-G Hackathon
 
 AI-powered maternal wellness platform.
 
-<b>Features</b>
+<b>Key Features</b>
 
-- Trimester Guidance
-- Mood Analysis
-- NLP Chat
-- Symptom Checker
-- Personalized Recommendations
+• Trimester Guidance<br>
+• Mood Analysis<br>
+• NLP Chatbot<br>
+• Symptom Checker
 
 <b>Tech Stack</b>
 
-Python • NLP • React • AI
+Python • NLP • React
 
 </td>
 
@@ -145,19 +142,18 @@ Python • NLP • React • AI
 
 <h3>Text-to-SQL for Financial Data</h3>
 
-Enterprise AI platform that converts natural language into SQL queries.
+Enterprise AI system for natural language to SQL conversion.
 
-<b>Features</b>
+<b>Key Features</b>
 
-- LLM Powered
-- SQL Generation
-- Multi-Agent Architecture
-- Financial Analytics
-- Automated Insights
+• SQL Generation<br>
+• Multi-Agent Workflow<br>
+• Financial Analytics<br>
+• Automated Insights
 
 <b>Tech Stack</b>
 
-LangChain • OpenAI • FastAPI • PostgreSQL • OpenCLAW
+LangChain • FastAPI • PostgreSQL
 
 </td>
 
@@ -167,17 +163,16 @@ LangChain • OpenAI • FastAPI • PostgreSQL • OpenCLAW
 
 End-to-end voice-driven hiring platform.
 
-<b>Features</b>
+<b>Key Features</b>
 
-- Speech Recognition
-- Resume Generation
-- Voice Interviews
-- AI Candidate Evaluation
-- Candidate Analysis
+• Speech Recognition<br>
+• Voice Interviews<br>
+• AI Evaluation<br>
+• Candidate Analysis
 
 <b>Tech Stack</b>
 
-Whisper • Python • LLMs • FastAPI • React
+Whisper • Python • React
 
 </td>
 
@@ -191,16 +186,16 @@ Whisper • Python • LLMs • FastAPI • React
 
 Voice-first AI financial assistant.
 
-<b>Features</b>
+<b>Key Features</b>
 
-- Expense Tracking
-- Voice Commands
-- AI Financial Reports
-- Smart Insights
+• Expense Tracking<br>
+• Voice Commands<br>
+• AI Reports<br>
+• Smart Insights
 
 <b>Tech Stack</b>
 
-Python • LLMs • FastAPI • React
+Python • FastAPI • LLMs
 
 </td>
 
@@ -208,18 +203,18 @@ Python • LLMs • FastAPI • React
 
 <h3>LinkedIn Job Summarizer</h3>
 
-AI application for summarizing job descriptions.
+LLM-powered job description summarizer.
 
-<b>Features</b>
+<b>Key Features</b>
 
-- LLM Summaries
-- Skill Extraction
-- Resume Matching
-- Job Insights
+• Skill Extraction<br>
+• Resume Matching<br>
+• AI Summary<br>
+• Job Insights
 
 <b>Tech Stack</b>
 
-Python • LLMs • NLP
+Python • NLP • LLMs
 
 </td>
 
@@ -231,18 +226,18 @@ Python • LLMs • NLP
 
 <h3>AI Calendar Summarizer</h3>
 
-Transformer-based meeting and event summarization system.
+AI system for summarizing meetings and events.
 
-<b>Features</b>
+<b>Key Features</b>
 
-- Event Highlights
-- Meeting Summaries
-- Priority Detection
-- AI Recommendations
+• Event Highlights<br>
+• Meeting Summary<br>
+• Priority Detection<br>
+• Recommendations
 
 <b>Tech Stack</b>
 
-Python • Transformers • NLP
+Python • Transformers
 
 </td>
 
@@ -250,14 +245,14 @@ Python • Transformers • NLP
 
 <h3>Cross-Camera Player Mapping</h3>
 
-YOLO-based multi-camera object tracking system.
+YOLO-based multi-camera tracking.
 
-<b>Features</b>
+<b>Key Features</b>
 
-- YOLO Detection
-- OpenCV Integration
-- Multi-Camera Tracking
-- Identity Matching
+• YOLO Detection<br>
+• OpenCV<br>
+• Tracking<br>
+• Identity Mapping
 
 <b>Tech Stack</b>
 
@@ -273,18 +268,18 @@ YOLO • OpenCV • Python
 
 <h3>Bus Ticket Booking System</h3>
 
-Real-time online ticket booking platform.
+Real-time online booking platform.
 
-<b>Features</b>
+<b>Key Features</b>
 
-- Live Seat Availability
-- Authentication
-- Booking History
-- Real-Time Updates
+• Live Seats<br>
+• Authentication<br>
+• Booking History<br>
+• Real-Time Updates
 
 <b>Tech Stack</b>
 
-Angular • Google Cloud • Supabase
+Angular • GCP • Supabase
 
 </td>
 
@@ -292,25 +287,26 @@ Angular • Google Cloud • Supabase
 
 <h3>TPO & Student Placement Portal</h3>
 
-Campus placement management system.
+Campus placement management portal.
 
-<b>Features</b>
+<b>Key Features</b>
 
-- Student Portal
-- Admin Dashboard
-- Resume Upload
-- Company Management
-- Job Listings
+• Student Portal<br>
+• Admin Dashboard<br>
+• Resume Upload<br>
+• Job Listings
 
 <b>Tech Stack</b>
 
-PHP • MySQL • HTML • CSS • JavaScript
+PHP • MySQL • JavaScript
 
 </td>
 
 </tr>
 
 </table>
+
+---
 
 # 🛠 Tech Stack
 
