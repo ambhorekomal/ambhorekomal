@@ -1,68 +1,82 @@
-<!-- ========================================= -->
-<!--               HEADER                      -->
-<!-- ========================================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFC7ED,25:F8BBD0,50:E1BEE7,75:D1C4E9,100:C5CAE9&text=Komal%20Ambhore&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cloud%20Explorer&descAlignY=60"/>
-
-<div align="center">
-
-# 💜 Hi, I'm Komal Ambhore 👋
-
-<img
-src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=E879F9&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;Full+Stack+Developer;Cloud+Enthusiast;Always+Building+Cool+Things+🚀"
-/>
-
-<br>
-
-<img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
-<br>
-
-</div>
-
-<div align="center">
-
-###  Building intelligent systems that solve real-world problems using AI, Cloud & Full Stack Engineering.
-
-</div>
-
-
 ## 💫 About Me
 
 ```yaml
 Name: Komal Ambhore
 
-Location: Pune, Maharashtra 🇮🇳
+Location:
+  📍 Pune, Maharashtra, India 🇮🇳
 
 Education:
-  🎓 B.E Computer Engineering - PES Modern College of Engineering
-  GPA : 9.14
+  🎓 B.E. Computer Engineering
+  🏫 PES Modern College of Engineering, Pune
+  📊 GPA: 9.14
 
-Currently:
+Current Role:
   💼 Software Engineer Intern @ Equations Work
 
-Interested In:
-   Artificial Intelligence, LLM Applications, Retrieval Augmented Generation, Agentic AI, Cloud Computing, Full Stack Development
+Focus Areas:
+  🤖 Artificial Intelligence
+  🧠 Large Language Models (LLMs)
+  🔍 Retrieval Augmented Generation (RAG)
+  ⚡ Agentic AI
+  🌐 Full Stack Development
+  ☁️ Cloud Computing
 
 Currently Learning:
-  OpenCLAW, AI Agents, AWS, Advanced RAG
+  🚀 OpenCLAW
+  🤖 Multi-Agent Systems
+  ☁️ AWS
+  🧩 LangGraph
+  📚 Advanced RAG
+  💡 AI Copilots
 
+Fun Fact:
+  💜 I love transforming complex ideas into intelligent software that people enjoy using.
+```
+
+---
 
 ## 💼 Experience
 
-### Software Engineer Intern
+### 💜 Software Engineer Intern
 ### Equations Work
 
-📅 March 2026 - Present
+📅 March 2026 – Present
 
-✨ Worked on cutting-edge AI applications including:
+Working on AI-powered enterprise applications including:
 
-- 🎙 Built an end-to-end Voice AI Recruitment Platform
-- 🤖 Developed RAG Chatbots using Embeddings + Vector Databases
-- 🧠 Built Multi-Agent workflows using OpenCLAW
-- 📈 Developed Media Sentiment Analysis System
-- 📰 Competitor News Tracking Agents
-- 🔍 LLM Prompt Engineering
-- 🌐 Full Stack AI Development
+- 🎙️ Developed a Voice AI Recruitment System using speech-to-text pipelines and LLMs.
+- 🤖 Built RAG chatbots using embeddings and vector databases for context-aware responses.
+- 🧠 Developed multi-agent workflows using OpenCLAW for automation and reasoning.
+- 💻 Currently building an AI Copilot to improve developer productivity.
+- 📧 Created AI-powered email drafting workflows.
+- 📰 Built media sentiment analysis and competitor article tracking solutions.
+- ⚙️ Worked across Python, FastAPI, React, REST APIs, and LLM integrations.
+
+---
+
+### 💙 Frontend Intern
+### Radar 36
+
+📅 September 2025 – November 2025
+
+- Built Angular dashboards for enterprise applications.
+- Integrated RAG chatbot features.
+- Performed API testing and backend integration.
+- Improved UI performance and responsiveness.
+
+---
+
+### 💛 Web Development Intern
+### Jija Tech Solutions
+
+📅 January 2025 – March 2025
+
+- Developed a complete TPO & Student Placement Portal.
+- Implemented role-based authentication.
+- Created job listing and resume management modules.
+- Tested backend APIs using Postman.
+- Worked with PHP, MySQL, JavaScript, HTML & CSS.
 
 ---
 
@@ -72,11 +86,11 @@ Currently Learning:
 
 🏆 Finalist (Top 24/848) — SEED Global Hackathon
 
-🏅 Semi Finalist — e-Yantra Innovation Challenge 2025
+🏅 Semi-Finalist — e-Yantra Innovation Challenge 2025
 
-🏅 District Semi Finalist — Maharashtra State Innovation Challenge
+🏅 District Semi-Finalist — Maharashtra State Innovation Challenge
 
-🏅 Top 20 — Nariyukti Hackathon
+🏅 Semi-Finalist (Top 20/100) — Nariyukti Hackathon
 
 ---
 
@@ -90,24 +104,17 @@ Currently Learning:
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=ambhorekomal&color=ff69b4&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=ambhorekomal&color=ff69b4&style=for-the-badge"/>
 
-![](https://img.shields.io/github/followers/ambhorekomal?style=for-the-badge&color=E879F9)
+<img src="https://img.shields.io/github/followers/ambhorekomal?style=for-the-badge&color=E879F9"/>
 
-![](https://img.shields.io/github/stars/ambhorekomal?style=for-the-badge&color=C084FC)
+<img src="https://img.shields.io/github/stars/ambhorekomal?style=for-the-badge&color=C084FC"/>
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F8BBD0,50:E1BEE7,100:D1C4E9&height=3"/>
-# 🚀 Featured Projects
-
-<div align="center">
-
-<img src="https://i.pinimg.com/originals/d8/5d/45/d85d4581632bcf7f14a4bab4914f5d1e.gif" width="420"/>
-
-### ✨ Building AI products that create real-world impact ✨
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFC7ED,50:E1BEE7,100:D1C4E9&height=3"/>
 
 </div>
 
