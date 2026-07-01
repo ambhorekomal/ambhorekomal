@@ -2,106 +2,71 @@
 <!--               HEADER                      -->
 <!-- ========================================= -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FFC7ED,25:F8BBD0,50:E1BEE7,75:D1C4E9,100:C5CAE9&text=Komal%20Ambhore&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cloud%20Explorer&descAlignY=60"/>
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FFC7ED,25:F8BBD0,50:E1BEE7,75:D1C4E9,100:C5CAE9&text=Komal%20Ambhore&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Cloud%20Explorer&descAlignY=68"/>
 
-# 💜 Hi, I'm Komal Ambhore 👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=E879F9&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;Full+Stack+Developer;Cloud+Enthusiast;Always+Building+Cool+Things+🚀"/>
-<br>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ambhorekomal&color=ff69b4&style=for-the-badge"/>
+
+# Hi, I'm Komal Ambhore 🦋
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=E879F9&center=true&vCenter=true&random=false&width=700&lines=AI+Software+Engineer;LLM+%7C+RAG+%7C+Agentic+AI;Full+Stack+Developer;Cloud+Enthusiast;Always+Building+Cool+Things"/>
+
 <img src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif" width="420" alt="Coding Girl"/>
 
-<br>
-
-### 🌸 Building intelligent systems that solve real-world problems using AI, Cloud & Full Stack Engineering.
+### Building intelligent systems that solve real-world problems using AI, Cloud & Full Stack Engineering.
 
 </div>
 
 ---
 
 
-## 💫 About Me
+## About Me
 
 ```yaml
 Name: Komal Ambhore
 
 Location:
-  📍 Pune, Maharashtra, India 🇮🇳
+   Pune, Maharashtra, India 🇮🇳
 
 Education:
-  🎓 B.E. Computer Engineering
-  🏫 PES Modern College of Engineering, Pune
-  📊 GPA: 9.14
+  🎓 B.E. Computer Engineering - PES Modern College of Engineering, Pune
+   GPA: 9.14
 
 Current Role:
   💼 Software Engineer Intern @ Equations Work
 
 Focus Areas:
-  🤖 Artificial Intelligence
-  🧠 Large Language Models (LLMs)
-  🔍 Retrieval Augmented Generation (RAG)
-  ⚡ Agentic AI
-  🌐 Full Stack Development
-  ☁️ Cloud Computing
+   Artificial Intelligence, Large Language Models (LLMs) ,Retrieval Augmented Generation (RAG)
+   Agentic AI, Full Stack Development, Cloud Computing
 
 Currently Learning:
-  🚀 OpenCLAW
-  🤖 Multi-Agent Systems
-  ☁️ AWS
-  🧩 LangGraph
-  📚 Advanced RAG
-  💡 AI Copilots
+  OpenCLAW, Multi-Agent Systems, AWS, LangGraph, Advanced RAG, AI Copilots
 
 Fun Fact:
-  💜 I love transforming complex ideas into intelligent software that people enjoy using.
+   I love transforming complex ideas into intelligent software that people enjoy using.
 ```
 
 ---
 
 ## 💼 Experience
 
-### 💜 Software Engineer Intern
+### Software Engineer Intern
 ### Equations Work
 
 📅 March 2026 – Present
 
 Working on AI-powered enterprise applications including:
 
-- 🎙️ Developed a Voice AI Recruitment System using speech-to-text pipelines and LLMs.
-- 🤖 Built RAG chatbots using embeddings and vector databases for context-aware responses.
-- 🧠 Developed multi-agent workflows using OpenCLAW for automation and reasoning.
-- 💻 Currently building an AI Copilot to improve developer productivity.
-- 📧 Created AI-powered email drafting workflows.
-- 📰 Built media sentiment analysis and competitor article tracking solutions.
-- ⚙️ Worked across Python, FastAPI, React, REST APIs, and LLM integrations.
+- Developed a Voice AI Recruitment System using speech-to-text pipelines and LLMs.
+- Built RAG chatbots using embeddings and vector databases for context-aware responses.
+- Developed multi-agent workflows using OpenCLAW for automation and reasoning.
+- Created AI-powered email drafting workflows.
+- Built media sentiment analysis and competitor article tracking solutions.
+- Worked across Python, FastAPI, React, REST APIs, and LLM integrations.
 
 ---
 
-### 💙 Frontend Intern
-### Radar 36
-
-📅 September 2025 – November 2025
-
-- Built Angular dashboards for enterprise applications.
-- Integrated RAG chatbot features.
-- Performed API testing and backend integration.
-- Improved UI performance and responsiveness.
-
----
-
-### 💛 Web Development Intern
-### Jija Tech Solutions
-
-📅 January 2025 – March 2025
-
-- Developed a complete TPO & Student Placement Portal.
-- Implemented role-based authentication.
-- Created job listing and resume management modules.
-- Tested backend APIs using Postman.
-- Worked with PHP, MySQL, JavaScript, HTML & CSS.
-
----
-
-## 🏆 Achievements
+## Achievements
 
 🥇 Winner — Prod-E-G Hackathon (MamaGen AI)
 
